@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CURDOperations", "CURDOperations\CURDOperations.csproj", "{49D5AEE5-A116-4AB2-9097-789B52D10489}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseContextTier", "DatabaseContext\DatabaseContextTier.csproj", "{95160EAA-F208-4A3B-8463-770AA63611B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49D5AEE5-A116-4AB2-9097-789B52D10489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D5AEE5-A116-4AB2-9097-789B52D10489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D5AEE5-A116-4AB2-9097-789B52D10489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D5AEE5-A116-4AB2-9097-789B52D10489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95160EAA-F208-4A3B-8463-770AA63611B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95160EAA-F208-4A3B-8463-770AA63611B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95160EAA-F208-4A3B-8463-770AA63611B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95160EAA-F208-4A3B-8463-770AA63611B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {345A751F-0E18-452C-91D2-D8DA0B233B48}
+	EndGlobalSection
+EndGlobal
